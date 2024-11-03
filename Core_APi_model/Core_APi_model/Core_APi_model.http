@@ -1,0 +1,6 @@
+@Core_APi_model_HostAddress = http://localhost:5139
+
+GET {{Core_APi_model_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
